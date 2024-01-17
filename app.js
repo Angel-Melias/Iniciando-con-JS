@@ -12,7 +12,7 @@ function askNumber () {
 function checkIfCorrect() {
 
     if (numero == numeroElegido) {
-        alert("Eso es correcto!")
+        alert(`Eso! El numero correcot es  ${numeroElegido}`); 
     }
     
     else {
